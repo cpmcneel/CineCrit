@@ -60,10 +60,12 @@ go run cmd/main.go
 Backend runs at http://localhost:8000
 
 ## Current Usage
-Users can currently "login" using the email "you@example.com" and the password "password". A "login successful" pop-up will display when those credentials are entered.
 
 Users can browse currently playing movies on the homepage under the title "Now Playing".
+<img width="1726" height="930" alt="CineCrit" src="https://github.com/user-attachments/assets/d3044cf6-5edc-4b52-b963-d5c2d07ed8df" />
 
+Users can currently "login" using the email "you@example.com" and the password "password". A "login successful" pop-up will display when those credentials are entered.
+<img width="1726" height="930" alt="Screenshot 2025-08-29 at 4 22 02 PM" src="https://github.com/user-attachments/assets/3b624909-5b03-4332-82df-1cd4e5cb7b7f" />
 
 ## Roadmap
 - Connect backend to SQLite for persistent storage
